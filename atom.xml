@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[The SuperSonic (Tennis) Fox]]></title>
-  <link href="http://supersonicfox.com/atom.xml" rel="self"/>
-  <link href="http://supersonicfox.com/"/>
-  <updated>2014-11-16T21:06:21-08:00</updated>
-  <id>http://supersonicfox.com/</id>
+  <title><![CDATA[Great After School (GAS)]]></title>
+  <link href="http://greatAfterSchool.org/atom.xml" rel="self"/>
+  <link href="http://greatAfterSchool.org/"/>
+  <updated>2014-11-16T21:07:51-08:00</updated>
+  <id>http://greatAfterSchool.org/</id>
   <author>
     <name><![CDATA[Mark Fussell]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Site Launch!]]></title>
-    <link href="http://supersonicfox.com/blog/site-launch/"/>
+    <link href="http://greatAfterSchool.org/blog/site-launch/"/>
     <updated>2014-11-16T18:15:00-08:00</updated>
-    <id>http://supersonicfox.com/blog/site-launch</id>
+    <id>http://greatAfterSchool.org/blog/site-launch</id>
     <content type="html"><![CDATA[<p>After a bad week with the administration of FLL, I formally decided to launch GAS.  This site was live within minutes of that decision.</p>
 ]]></content>
   </entry>

@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://supersonicfox.com/sitemap.xml 
+Sitemap: http://greatAfterSchool.org/sitemap.xml 
