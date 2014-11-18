@@ -4,7 +4,7 @@
   <title><![CDATA[Great After School (GAS)]]></title>
   <link href="http://greatAfterSchool.org/atom.xml" rel="self"/>
   <link href="http://greatAfterSchool.org/"/>
-  <updated>2014-11-17T07:50:33-08:00</updated>
+  <updated>2014-11-17T17:24:21-08:00</updated>
   <id>http://greatAfterSchool.org/</id>
   <author>
     <name><![CDATA[Mark Fussell]]></name>
@@ -12,6 +12,53 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Spring Robotics Tournament!]]></title>
+    <link href="http://greatAfterSchool.org/blog/spring-robotics-tournament/"/>
+    <updated>2014-11-17T18:15:00-08:00</updated>
+    <id>http://greatAfterSchool.org/blog/spring-robotics-tournament</id>
+    <content type="html"><![CDATA[<p>Steve Putz came up with the brilliantly simple and logical idea that GAS Robotics should launch with a Spring tournament.  This would not interfere with the FLL
+season (FLL is in the autumn to avoid colliding with FRC), and actually spring is a better-for-schools time of year.  FLL always seemed backwards: you rush as
+ soon as school starts and then do nothing (or I run a club) in the Spring.</p>
+
+<p>Although very early in this process, if you are interested in hosting a 24 team tournament (or less, but 24 is pretty nice) or would love to participate in
+a Spring tournament somewhere in the Bay Area, please contact me or anyone who is part of Los Alto Robotics.</p>
+
+<h2>Suggested Format</h2>
+
+<p>The best tournament I ever attended was run by Los Alto Robotics and had some very nice characteristics:</p>
+
+<ul>
+<li> It was simply &lsquo;In the afternoon&rsquo; running from Noon to about 6PM.  So you have lunch, go to tournament, get awards, go get dinner.</li>
+<li> There was very little down time: teams ran through three pairs of tables and the judging pretty much continuously.  There were gaps (it wasn&rsquo;t a grind) but there weren&rsquo;t significant breaks.</li>
+<li> During judging deliberation, guest FRC teams could visit or teams could present their projects to each other</li>
+</ul>
+
+
+<p>This was so pleasant that I would recommend it as a model.  Also since there is no subsequent event (e.g. a &lsquo;Regional&rsquo;) judging may be faster
+or we could even simply drop the judging and just have kids <em>present</em> to everyone if they feel like it.</p>
+
+<h3>Venues</h3>
+
+<p>It would be nice if the venues were relatively consistent in format, but venues should be able to block out as many &lsquo;home slots&rsquo; as they need.  It is their venue after all.</p>
+
+<h3>Team Registration</h3>
+
+<p>Registration is done here:</p>
+
+<ul>
+<li> <a href="http://www.meetup.com/NorCal-Lego-Robotics-League/">http://www.meetup.com/NorCal-Lego-Robotics-League/</a></li>
+</ul>
+
+
+<p>It is first-come first-served starting 28 days (or something similar) before the event.  The cost per team could vary per venue due to facility costs.</p>
+
+<h3>Other Thoughts?</h3>
+
+<p>If you have any other thoughts or suggestions, just let me know and I will add them here.  Or join the meetup which has a forums capability.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Site Launch!]]></title>
